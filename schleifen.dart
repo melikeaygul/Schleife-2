@@ -7,7 +7,6 @@ void main() {
   }
 
   for (int i = 61; i <= 100; i++) {
-    String grosse = "";
     print("Große Zahl: $i");
   }
 }
